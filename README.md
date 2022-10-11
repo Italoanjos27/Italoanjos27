@@ -4,7 +4,7 @@
 <p>• 🏢  I'm currently working at Autonomous</p>
 <p>• 💬  I like to talk about JavaScript</p>
 <p>• 📫  Ask me about anything, I am happy to help :)</p>
-<p>• 💻  Connect with me on [Linkedin](https://www.linkedin.com/in/italo-anjos-9b05795b/)</p>
+<p>• 💻  Connect with me on <a href="https://www.linkedin.com/in/italo-anjos-9b05795b/">LinkedIn</a></p>
 
 
 <br>
