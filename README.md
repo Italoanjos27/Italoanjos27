@@ -52,4 +52,22 @@
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
+       <td align="center" width="96">
+      <a href="#italo-tech">
+        <img src="https://www.dbacorp.com.br/wp-content/uploads/2017/07/microsoft-sql-server-logo-300x163.png" width="48" height="48" alt="SQL" />
+      </a>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <a href="#italo-tech">
+        <img src="https://ebdicorp.com.br/wp-content/uploads/2020/02/servicenow-logo-294x300.png.webp" width="48" height="48" alt="Service Now" />
+      </a>
+      <br>Service Now
+    </td>
+    <td align="center" width="96">
+      <a href="#italo-tech">
+        <img src="https://avatars.githubusercontent.com/u/23365920?s=200&v=4" width="48" height="48" alt="Qlik" />
+      </a>
+      <br>Qlik
+    </td>
   </tr>
