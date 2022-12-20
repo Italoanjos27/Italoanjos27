@@ -1,7 +1,7 @@
 <h1> • 👋 Hi, I’m Italo Anjos; </h1>
 <p>• 👀 I’m interested in Technology in a general context</p>
 <p>• 🌱 I’m currently learning React.js</p>
-<p>• 🏢  I'm currently working at Autonomous</p>
+<p>• 🏢  I'm currently working at Autonomous/Freelancer</p>
 <p>• 💬  I like to talk about JavaScript</p>
 <p>• 📫  Ask me about anything, I am happy to help :)</p>
 <p>• 💻  Connect with me on <a href="https://www.linkedin.com/in/italo-anjos-9b05795b/">LinkedIn</a></p>
